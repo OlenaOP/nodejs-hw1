@@ -1,0 +1,7 @@
+node_modules/
+package*
+.DS_Store
+.vscode/
+.idea
+.env
+.env.local
